@@ -4,18 +4,17 @@
 # Column types: cccccnn
 # ----------
 supplysector,subsector,technology,minicam.energy.input,secondary.output,1975,2100
-FoodProcessing_enuse,refined liquids,refined liquids,refined liquids industrial,,0.003024746,0.003024746
-FoodProcessing_enuse,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.004446377,0.004446377
-FoodProcessing_enuse,refined liquids,refined liquids CCS,refined liquids industrial,,0.00342029,0.00342029
-FoodProcessing_enuse,gas,gas,wholesale gas,,0.000571806,0.000571806
-FoodProcessing_enuse,gas,gas cogen,wholesale gas,electricity,0.000840555,0.000840555
-FoodProcessing_enuse,gas,gas CCS,wholesale gas,,0.000646581,0.000646581
-FoodProcessing_enuse,biomass,biomass,delivered biomass,,0.004114244,0.004114244
-FoodProcessing_enuse,biomass,biomass cogen,delivered biomass,electricity,0.006047938,0.006047938
-FoodProcessing_enuse,biomass,biomass CCS,delivered biomass,,0.00465226,0.00465226
-FoodProcessing_enuse,heat,heat,district heat,,1,1
-FoodProcessing_enuse,coal,coal,delivered coal,,0.004255112,0.004255112
-FoodProcessing_enuse,coal,coal cogen,delivered coal,electricity,0.006255015,0.006255015
-FoodProcessing_enuse,coal,coal CCS,delivered coal,,0.00481155,0.00481155
-FoodProcessing_enuse,electricity,electricity,elect_td_ind,,0.053262,0.053262
-FoodProcessing_enuse,electricity,electricity,FoodProcessing_enuse,,1.888888889,1.888888889
+FoodProcessing,refined liquids,refined liquids,refined liquids industrial,,0.003024746,0.003024746
+FoodProcessing,refined liquids,refined liquids cogen,refined liquids industrial,electricity,0.004446377,0.004446377
+FoodProcessing,refined liquids,refined liquids CCS,refined liquids industrial,,0.00342029,0.00342029
+FoodProcessing,gas,gas,wholesale gas,,0.000571806,0.000571806
+FoodProcessing,gas,gas cogen,wholesale gas,electricity,0.000840555,0.000840555
+FoodProcessing,gas,gas CCS,wholesale gas,,0.000646581,0.000646581
+FoodProcessing,biomass,biomass,delivered biomass,,0.004114244,0.004114244
+FoodProcessing,biomass,biomass cogen,delivered biomass,electricity,0.006047938,0.006047938
+FoodProcessing,biomass,biomass CCS,delivered biomass,,0.00465226,0.00465226
+FoodProcessing,heat,heat,district heat,,1,1
+FoodProcessing,coal,coal,delivered coal,,0.004255112,0.004255112
+FoodProcessing,coal,coal cogen,delivered coal,electricity,0.006255015,0.006255015
+FoodProcessing,coal,coal CCS,delivered coal,,0.00481155,0.00481155
+FoodProcessing,electricity,electricity,elect_td_ind,,0.053262,0.053262

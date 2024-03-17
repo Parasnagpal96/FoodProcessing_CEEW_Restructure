@@ -4,9 +4,9 @@
 # Column types: ccccccc
 # ----------
 supplysector,subsector,apply.to,from.year,to.year,to.value,interpolation.function
-FoodProcessing_enuse,refined liquids,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing_enuse,gas,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing_enuse,biomass,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing_enuse,heat,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing_enuse,coal,share-weight,final-calibration-year,end-year,,fixed
-FoodProcessing_enuse,electricity,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,refined liquids,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,gas,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,biomass,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,heat,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,coal,share-weight,final-calibration-year,end-year,,fixed
+FoodProcessing,electricity,share-weight,final-calibration-year,end-year,,fixed

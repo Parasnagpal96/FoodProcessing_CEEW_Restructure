@@ -10,31 +10,31 @@
 # Column types: ccccicinni
 # ----------
 supplysector,subsector,technology,year,lifetime,shutdown.rate,half.life,steepness,median.shutdown.point,profit.shutdown.steepness
-FoodProcessing_enuse,refined liquids,refined liquids,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,refined liquids,refined liquids cogen,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,refined liquids,refined liquids CCS,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas cogen,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas CCS,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass cogen,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass CCS,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,heat,heat,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal cogen,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal CCS,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,electricity,electricity,final-calibration-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,refined liquids,refined liquids,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,refined liquids,refined liquids cogen,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,refined liquids,refined liquids CCS,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas cogen,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,gas,gas CCS,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass cogen,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,biomass,biomass CCS,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,heat,heat,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal cogen,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,coal,coal CCS,initial-future-year,40,,20,0.3,-0.5,6
-FoodProcessing_enuse,electricity,electricity,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids cogen,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids CCS,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas cogen,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas CCS,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass cogen,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass CCS,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,heat,heat,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal cogen,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal CCS,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,electricity,electricity,final-calibration-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids cogen,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,refined liquids,refined liquids CCS,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas cogen,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,gas,gas CCS,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass cogen,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,biomass,biomass CCS,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,heat,heat,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal cogen,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,coal,coal CCS,initial-future-year,40,,20,0.3,-0.5,6
+FoodProcessing,electricity,electricity,initial-future-year,40,,20,0.3,-0.5,6

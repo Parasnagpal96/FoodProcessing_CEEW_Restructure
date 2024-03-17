@@ -4,4 +4,9 @@
 # Column types: ccic
 # ----------
 supplysector,subsector,logit.exponent,logit.type
-FoodProcessing_enuse,electricity,-6,
+FoodProcessing,refined liquids,-6,
+FoodProcessing,gas,-6,
+FoodProcessing,biomass,-6,
+FoodProcessing,heat,-6,
+FoodProcessing,coal,-6,
+FoodProcessing,electricity,-6,
