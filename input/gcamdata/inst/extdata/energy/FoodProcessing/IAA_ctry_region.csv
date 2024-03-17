@@ -1,0 +1,61 @@
+# File: IAA_ctry_region.csv
+# Title: ISO to International FoodProcessing Institute region mapping
+# Units: NA
+# Description: Maps iso codes to IAA regions by data type
+# Column types: ccc
+# ----------
+iso,region_FoodProcessing_prod,region_FoodProcessing_en
+arg,South America,South America
+aus,Oceania,Oceania
+aut,West Europe,Europe
+bhr,GCC,GCC
+bra,South America,South America
+cmr,Africa,Africa
+can,North America,North America
+chn,China (Estimated),China
+cze,East & Central Europe,Europe
+egy,Africa,Africa
+fra,West Europe,Europe
+deu,West Europe,Europe
+gha,Africa,Africa
+grc,West Europe,Europe
+hun,East & Central Europe,Europe
+isl,West Europe,Europe
+ind,Asia (ex China),Asia (ex China)
+idn,Asia (ex China),Asia (ex China)
+irn,Asia (ex China),Asia (ex China)
+ita,West Europe,Europe
+jpn,Asia (ex China),Asia (ex China)
+mex,South America,South America
+nld,West Europe,Europe
+nzl,Oceania,Oceania
+nor,West Europe,Europe
+pol,East & Central Europe,Europe
+rom,East & Central Europe,Europe
+zaf,Africa,Africa
+esp,West Europe,Europe
+sur,South America,South America
+swe,West Europe,Europe
+che,West Europe,Europe
+tur,Asia (ex China),Asia (ex China)
+are,GCC,GCC
+gbr,West Europe,Europe
+usa,North America,North America
+ven,South America,South America
+aze,Asia (ex China),Asia (ex China)
+bih,East & Central Europe,Europe
+hrv,East & Central Europe,Europe
+rus,East & Central Europe,Europe
+scg,East & Central Europe,Europe
+svn,East & Central Europe,Europe
+tjk,Asia (ex China),Asia (ex China)
+ukr,East & Central Europe,Europe
+svk,East & Central Europe,Europe
+nga,Africa,Africa
+moz,Africa,Africa
+mne,East & Central Europe,Europe
+kaz,Asia (ex China),Asia (ex China)
+omn,GCC,GCC
+mys,Asia (ex China),Asia (ex China)
+qat,GCC,GCC
+sau,GCC,GCC

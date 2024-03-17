@@ -1,0 +1,12 @@
+# File: A327.subsector_shrwt.csv
+# Title:FoodProcessing_enuse default subsector shareweights
+# Units: Unitless
+# Column types: ccccn
+# ----------
+supplysector,subsector,year.fillout,year,share.weight
+FoodProcessing_enuse,refined liquids,start-year,,1
+FoodProcessing_enuse,coal,start-year,,1
+FoodProcessing_enuse,gas,start-year,,1
+FoodProcessing_enuse,biomass,start-year,,1
+FoodProcessing_enuse,heat,start-year,,1
+FoodProcessing_enuse,electricity,start-year,,1
