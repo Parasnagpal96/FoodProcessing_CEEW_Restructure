@@ -4,9 +4,9 @@
 # Column types: ccccn
 # ----------
 supplysector,subsector,year.fillout,year,share.weight
-FoodProcessing,refined liquids,start-year,,1
-FoodProcessing,coal,start-year,,1
-FoodProcessing,gas,start-year,,1
-FoodProcessing,biomass,start-year,,1
-FoodProcessing,heat,start-year,,1
+FoodProcessing_enuse,refined liquids,start-year,,1
+FoodProcessing_enuse,coal,start-year,,1
+FoodProcessing_enuse,gas,start-year,,1
+FoodProcessing_enuse,biomass,start-year,,1
+FoodProcessing_enuse,heat,start-year,,1
 FoodProcessing,electricity,start-year,,1

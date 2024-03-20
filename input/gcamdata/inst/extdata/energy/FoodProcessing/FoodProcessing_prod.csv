@@ -6,6 +6,32 @@
 # Column types: cciicn
 # ----------
 region,flow,GCAM_region_ID,year,unit_prod,value
+USA,FoodProcessing_enuse,1,1990,Mt,3.819488057
+USA,FoodProcessing_enuse,1,1991,Mt,3.618262963
+USA,FoodProcessing_enuse,1,1992,Mt,3.353784643
+USA,FoodProcessing_enuse,1,1993,Mt,3.147194553
+USA,FoodProcessing_enuse,1,1994,Mt,2.729355243
+USA,FoodProcessing_enuse,1,1995,Mt,2.902244456
+USA,FoodProcessing_enuse,1,1996,Mt,2.970252901
+USA,FoodProcessing_enuse,1,1997,Mt,3.165524105
+USA,FoodProcessing_enuse,1,1998,Mt,3.339668738
+USA,FoodProcessing_enuse,1,1999,Mt,3.030410055
+USA,FoodProcessing_enuse,1,2000,Mt,2.808214971
+USA,FoodProcessing_enuse,1,2001,Mt,2.351582638
+USA,FoodProcessing_enuse,1,2002,Mt,2.305158445
+USA,FoodProcessing_enuse,1,2003,Mt,2.559861516
+USA,FoodProcessing_enuse,1,2004,Mt,2.903630486
+USA,FoodProcessing_enuse,1,2005,Mt,2.744106011
+USA,FoodProcessing_enuse,1,2006,Mt,2.53829675
+USA,FoodProcessing_enuse,1,2007,Mt,2.396777445
+USA,FoodProcessing_enuse,1,2008,Mt,2.427515794
+USA,FoodProcessing_enuse,1,2009,Mt,1.285175531
+USA,FoodProcessing_enuse,1,2010,Mt,1.636552783
+USA,FoodProcessing_enuse,1,2011,Mt,1.925713281
+USA,FoodProcessing_enuse,1,2012,Mt,2.230018553
+USA,FoodProcessing_enuse,1,2013,Mt,2.325301729
+USA,FoodProcessing_enuse,1,2014,Mt,2.077979422
+USA,FoodProcessing_enuse,1,2015,Mt,1.94890604
 USA,FoodProcessing,1,1990,Mt,4.049441852
 USA,FoodProcessing,1,1991,Mt,4.123773683
 USA,FoodProcessing,1,1992,Mt,4.043344197
@@ -32,6 +58,32 @@ USA,FoodProcessing,1,2012,Mt,2.07
 USA,FoodProcessing,1,2013,Mt,1.947187792
 USA,FoodProcessing,1,2014,Mt,1.716363835
 USA,FoodProcessing,1,2015,Mt,1.589644295
+Africa_Eastern,FoodProcessing_enuse,2,1990,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1991,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1992,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1993,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1994,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1995,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1996,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1997,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1998,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,1999,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2000,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2001,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2002,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2003,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2004,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2005,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2006,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2007,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2008,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2009,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2010,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2011,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2012,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2013,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2014,Mt,0
+Africa_Eastern,FoodProcessing_enuse,2,2015,Mt,0
 Africa_Eastern,FoodProcessing,2,1990,Mt,0
 Africa_Eastern,FoodProcessing,2,1991,Mt,0
 Africa_Eastern,FoodProcessing,2,1992,Mt,0
@@ -58,6 +110,32 @@ Africa_Eastern,FoodProcessing,2,2012,Mt,0
 Africa_Eastern,FoodProcessing,2,2013,Mt,0
 Africa_Eastern,FoodProcessing,2,2014,Mt,0
 Africa_Eastern,FoodProcessing,2,2015,Mt,0
+Africa_Northern,FoodProcessing_enuse,3,1990,Mt,0.218026257
+Africa_Northern,FoodProcessing_enuse,3,1991,Mt,0.20446943
+Africa_Northern,FoodProcessing_enuse,3,1992,Mt,0.158591111
+Africa_Northern,FoodProcessing_enuse,3,1993,Mt,0.153952325
+Africa_Northern,FoodProcessing_enuse,3,1994,Mt,0.163848872
+Africa_Northern,FoodProcessing_enuse,3,1995,Mt,0.162050141
+Africa_Northern,FoodProcessing_enuse,3,1996,Mt,0.13983368
+Africa_Northern,FoodProcessing_enuse,3,1997,Mt,0.2065919
+Africa_Northern,FoodProcessing_enuse,3,1998,Mt,0.229238464
+Africa_Northern,FoodProcessing_enuse,3,1999,Mt,0.222365729
+Africa_Northern,FoodProcessing_enuse,3,2000,Mt,0.212451034
+Africa_Northern,FoodProcessing_enuse,3,2001,Mt,0.209425137
+Africa_Northern,FoodProcessing_enuse,3,2002,Mt,0.242282092
+Africa_Northern,FoodProcessing_enuse,3,2003,Mt,0.239970838
+Africa_Northern,FoodProcessing_enuse,3,2004,Mt,0.240361478
+Africa_Northern,FoodProcessing_enuse,3,2005,Mt,0.251494695
+Africa_Northern,FoodProcessing_enuse,3,2006,Mt,0.225330561
+Africa_Northern,FoodProcessing_enuse,3,2007,Mt,0.234720685
+Africa_Northern,FoodProcessing_enuse,3,2008,Mt,0.247812979
+Africa_Northern,FoodProcessing_enuse,3,2009,Mt,0.229828375
+Africa_Northern,FoodProcessing_enuse,3,2010,Mt,0.210639027
+Africa_Northern,FoodProcessing_enuse,3,2011,Mt,0.189799879
+Africa_Northern,FoodProcessing_enuse,3,2012,Mt,0.170866523
+Africa_Northern,FoodProcessing_enuse,3,2013,Mt,0.178815081
+Africa_Northern,FoodProcessing_enuse,3,2014,Mt,0.159194081
+Africa_Northern,FoodProcessing_enuse,3,2015,Mt,0.156648556
 Africa_Northern,FoodProcessing,3,1990,Mt,0.178112397
 Africa_Northern,FoodProcessing,3,1991,Mt,0.180059504
 Africa_Northern,FoodProcessing,3,1992,Mt,0.179161501
@@ -84,6 +162,32 @@ Africa_Northern,FoodProcessing,3,2012,Mt,0.269773292
 Africa_Northern,FoodProcessing,3,2013,Mt,0.31754655
 Africa_Northern,FoodProcessing,3,2014,Mt,0.300516351
 Africa_Northern,FoodProcessing,3,2015,Mt,0.305247286
+Africa_Southern,FoodProcessing_enuse,4,1990,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1991,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1992,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1993,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1994,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1995,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1996,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1997,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1998,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,1999,Mt,0
+Africa_Southern,FoodProcessing_enuse,4,2000,Mt,0.059442258
+Africa_Southern,FoodProcessing_enuse,4,2001,Mt,0.294746489
+Africa_Southern,FoodProcessing_enuse,4,2002,Mt,0.332982567
+Africa_Southern,FoodProcessing_enuse,4,2003,Mt,0.503323451
+Africa_Southern,FoodProcessing_enuse,4,2004,Mt,0.610918757
+Africa_Southern,FoodProcessing_enuse,4,2005,Mt,0.572047359
+Africa_Southern,FoodProcessing_enuse,4,2006,Mt,0.504311256
+Africa_Southern,FoodProcessing_enuse,4,2007,Mt,0.513110334
+Africa_Southern,FoodProcessing_enuse,4,2008,Mt,0.510875988
+Africa_Southern,FoodProcessing_enuse,4,2009,Mt,0.472665904
+Africa_Southern,FoodProcessing_enuse,4,2010,Mt,0.441074954
+Africa_Southern,FoodProcessing_enuse,4,2011,Mt,0.402518989
+Africa_Southern,FoodProcessing_enuse,4,2012,Mt,0.363655544
+Africa_Southern,FoodProcessing_enuse,4,2013,Mt,0.318514363
+Africa_Southern,FoodProcessing_enuse,4,2014,Mt,0.300876812
+Africa_Southern,FoodProcessing_enuse,4,2015,Mt,0.291366314
 Africa_Southern,FoodProcessing,4,1990,Mt,0
 Africa_Southern,FoodProcessing,4,1991,Mt,0
 Africa_Southern,FoodProcessing,4,1992,Mt,0
@@ -110,6 +214,32 @@ Africa_Southern,FoodProcessing,4,2012,Mt,0.574159006
 Africa_Southern,FoodProcessing,4,2013,Mt,0.565629792
 Africa_Southern,FoodProcessing,4,2014,Mt,0.567975904
 Africa_Southern,FoodProcessing,4,2015,Mt,0.567759952
+Africa_Western,FoodProcessing_enuse,5,1990,Mt,0.32521235
+Africa_Western,FoodProcessing_enuse,5,1991,Mt,0.296365803
+Africa_Western,FoodProcessing_enuse,5,1992,Mt,0.23343186
+Africa_Western,FoodProcessing_enuse,5,1993,Mt,0.223535296
+Africa_Western,FoodProcessing_enuse,5,1994,Mt,0.200453408
+Africa_Western,FoodProcessing_enuse,5,1995,Mt,0.192659612
+Africa_Western,FoodProcessing_enuse,5,1996,Mt,0.173014553
+Africa_Western,FoodProcessing_enuse,5,1997,Mt,0.273121495
+Africa_Western,FoodProcessing_enuse,5,1998,Mt,0.185741935
+Africa_Western,FoodProcessing_enuse,5,1999,Mt,0.241952348
+Africa_Western,FoodProcessing_enuse,5,2000,Mt,0.277397205
+Africa_Western,FoodProcessing_enuse,5,2001,Mt,0.269260891
+Africa_Western,FoodProcessing_enuse,5,2002,Mt,0.228614897
+Africa_Western,FoodProcessing_enuse,5,2003,Mt,0.114447631
+Africa_Western,FoodProcessing_enuse,5,2004,Mt,0.095699477
+Africa_Western,FoodProcessing_enuse,5,2005,Mt,0.106163744
+Africa_Western,FoodProcessing_enuse,5,2006,Mt,0.085840214
+Africa_Western,FoodProcessing_enuse,5,2007,Mt,0.079149998
+Africa_Western,FoodProcessing_enuse,5,2008,Mt,0.097218938
+Africa_Western,FoodProcessing_enuse,5,2009,Mt,0.074585812
+Africa_Western,FoodProcessing_enuse,5,2010,Mt,0.076811976
+Africa_Western,FoodProcessing_enuse,5,2011,Mt,0.087379567
+Africa_Western,FoodProcessing_enuse,5,2012,Mt,0.074794403
+Africa_Western,FoodProcessing_enuse,5,2013,Mt,0.063702873
+Africa_Western,FoodProcessing_enuse,5,2014,Mt,0.069514749
+Africa_Western,FoodProcessing_enuse,5,2015,Mt,0.054826995
 Africa_Western,FoodProcessing,5,1990,Mt,0.265676033
 Africa_Western,FoodProcessing,5,1991,Mt,0.260985124
 Africa_Western,FoodProcessing,5,1992,Mt,0.263709625
@@ -136,6 +266,32 @@ Africa_Western,FoodProcessing,5,2012,Mt,0.118089441
 Africa_Western,FoodProcessing,5,2013,Mt,0.113125958
 Africa_Western,FoodProcessing,5,2014,Mt,0.131225473
 Africa_Western,FoodProcessing,5,2015,Mt,0.10683655
+Australia_NZ,FoodProcessing_enuse,6,1990,Mt,11.00097
+Australia_NZ,FoodProcessing_enuse,6,1991,Mt,11.475
+Australia_NZ,FoodProcessing_enuse,6,1992,Mt,11.58
+Australia_NZ,FoodProcessing_enuse,6,1993,Mt,12.38199
+Australia_NZ,FoodProcessing_enuse,6,1994,Mt,12.51798
+Australia_NZ,FoodProcessing_enuse,6,1995,Mt,12.78501
+Australia_NZ,FoodProcessing_enuse,6,1996,Mt,13.01802
+Australia_NZ,FoodProcessing_enuse,6,1997,Mt,13.15698
+Australia_NZ,FoodProcessing_enuse,6,1998,Mt,13.54803
+Australia_NZ,FoodProcessing_enuse,6,1999,Mt,14.12103
+Australia_NZ,FoodProcessing_enuse,6,2000,Mt,15.40902
+Australia_NZ,FoodProcessing_enuse,6,2001,Mt,16.11
+Australia_NZ,FoodProcessing_enuse,6,2002,Mt,16.179
+Australia_NZ,FoodProcessing_enuse,6,2003,Mt,16.55001
+Australia_NZ,FoodProcessing_enuse,6,2004,Mt,16.746
+Australia_NZ,FoodProcessing_enuse,6,2005,Mt,17.68401
+Australia_NZ,FoodProcessing_enuse,6,2006,Mt,18.34101
+Australia_NZ,FoodProcessing_enuse,6,2007,Mt,18.98703
+Australia_NZ,FoodProcessing_enuse,6,2008,Mt,19.41603
+Australia_NZ,FoodProcessing_enuse,6,2009,Mt,19.95798
+Australia_NZ,FoodProcessing_enuse,6,2010,Mt,19.647
+Australia_NZ,FoodProcessing_enuse,6,2011,Mt,19.11501
+Australia_NZ,FoodProcessing_enuse,6,2012,Mt,20.997
+Australia_NZ,FoodProcessing_enuse,6,2013,Mt,21.24
+Australia_NZ,FoodProcessing_enuse,6,2014,Mt,20.269
+Australia_NZ,FoodProcessing_enuse,6,2015,Mt,19.916
 Australia_NZ,FoodProcessing,6,1990,Mt,1.498
 Australia_NZ,FoodProcessing,6,1991,Mt,1.495
 Australia_NZ,FoodProcessing,6,1992,Mt,1.483
@@ -162,6 +318,32 @@ Australia_NZ,FoodProcessing,6,2012,Mt,2.186
 Australia_NZ,FoodProcessing,6,2013,Mt,2.104
 Australia_NZ,FoodProcessing,6,2014,Mt,2.035
 Australia_NZ,FoodProcessing,6,2015,Mt,1.978
+Brazil,FoodProcessing_enuse,7,1990,Mt,3.739619127
+Brazil,FoodProcessing_enuse,7,1991,Mt,4.3332571
+Brazil,FoodProcessing_enuse,7,1992,Mt,4.464762481
+Brazil,FoodProcessing_enuse,7,1993,Mt,4.608361627
+Brazil,FoodProcessing_enuse,7,1994,Mt,4.741201826
+Brazil,FoodProcessing_enuse,7,1995,Mt,4.764781763
+Brazil,FoodProcessing_enuse,7,1996,Mt,5.125632077
+Brazil,FoodProcessing_enuse,7,1997,Mt,5.484808671
+Brazil,FoodProcessing_enuse,7,1998,Mt,6.02541184
+Brazil,FoodProcessing_enuse,7,1999,Mt,6.356205251
+Brazil,FoodProcessing_enuse,7,2000,Mt,6.614717656
+Brazil,FoodProcessing_enuse,7,2001,Mt,6.026725018
+Brazil,FoodProcessing_enuse,7,2002,Mt,6.505526302
+Brazil,FoodProcessing_enuse,7,2003,Mt,7.512780918
+Brazil,FoodProcessing_enuse,7,2004,Mt,7.940749074
+Brazil,FoodProcessing_enuse,7,2005,Mt,8.14524308
+Brazil,FoodProcessing_enuse,7,2006,Mt,9.461629823
+Brazil,FoodProcessing_enuse,7,2007,Mt,9.732261435
+Brazil,FoodProcessing_enuse,7,2008,Mt,9.723380481
+Brazil,FoodProcessing_enuse,7,2009,Mt,8.053902789
+Brazil,FoodProcessing_enuse,7,2010,Mt,9.136105175
+Brazil,FoodProcessing_enuse,7,2011,Mt,9.546118068
+Brazil,FoodProcessing_enuse,7,2012,Mt,9.647512671
+Brazil,FoodProcessing_enuse,7,2013,Mt,8.899204178
+Brazil,FoodProcessing_enuse,7,2014,Mt,8.219422827
+Brazil,FoodProcessing_enuse,7,2015,Mt,7.405719033
 Brazil,FoodProcessing,7,1990,Mt,0.932562955
 Brazil,FoodProcessing,7,1991,Mt,1.145740181
 Brazil,FoodProcessing,7,1992,Mt,1.179425113
@@ -188,6 +370,32 @@ Brazil,FoodProcessing,7,2012,Mt,1.436
 Brazil,FoodProcessing,7,2013,Mt,1.29787154
 Brazil,FoodProcessing,7,2014,Mt,0.962623865
 Brazil,FoodProcessing,7,2015,Mt,0.772583082
+Canada,FoodProcessing_enuse,8,1990,Mt,1.478541943
+Canada,FoodProcessing_enuse,8,1991,Mt,1.599727037
+Canada,FoodProcessing_enuse,8,1992,Mt,1.636235357
+Canada,FoodProcessing_enuse,8,1993,Mt,1.965825447
+Canada,FoodProcessing_enuse,8,1994,Mt,1.865624757
+Canada,FoodProcessing_enuse,8,1995,Mt,1.867755544
+Canada,FoodProcessing_enuse,8,1996,Mt,1.895747099
+Canada,FoodProcessing_enuse,8,1997,Mt,2.044455895
+Canada,FoodProcessing_enuse,8,1998,Mt,2.135301262
+Canada,FoodProcessing_enuse,8,1999,Mt,1.916559945
+Canada,FoodProcessing_enuse,8,2000,Mt,1.816765029
+Canada,FoodProcessing_enuse,8,2001,Mt,2.303427362
+Canada,FoodProcessing_enuse,8,2002,Mt,2.306861555
+Canada,FoodProcessing_enuse,8,2003,Mt,2.644148484
+Canada,FoodProcessing_enuse,8,2004,Mt,2.991339514
+Canada,FoodProcessing_enuse,8,2005,Mt,3.200903989
+Canada,FoodProcessing_enuse,8,2006,Mt,3.39069325
+Canada,FoodProcessing_enuse,8,2007,Mt,2.893212555
+Canada,FoodProcessing_enuse,8,2008,Mt,2.849454206
+Canada,FoodProcessing_enuse,8,2009,Mt,2.254824469
+Canada,FoodProcessing_enuse,8,2010,Mt,2.809447217
+Canada,FoodProcessing_enuse,8,2011,Mt,2.897296719
+Canada,FoodProcessing_enuse,8,2012,Mt,2.995981447
+Canada,FoodProcessing_enuse,8,2013,Mt,3.547698271
+Canada,FoodProcessing_enuse,8,2014,Mt,3.473020578
+Canada,FoodProcessing_enuse,8,2015,Mt,3.53009396
 Canada,FoodProcessing,8,1990,Mt,1.567558148
 Canada,FoodProcessing,8,1991,Mt,1.823226317
 Canada,FoodProcessing,8,1992,Mt,1.972655803
@@ -214,6 +422,32 @@ Canada,FoodProcessing,8,2012,Mt,2.781
 Canada,FoodProcessing,8,2013,Mt,2.970812208
 Canada,FoodProcessing,8,2014,Mt,2.868636165
 Canada,FoodProcessing,8,2015,Mt,2.879355705
+Central America and Caribbean,FoodProcessing_enuse,9,1990,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1991,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1992,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1993,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1994,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1995,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1996,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1997,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1998,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,1999,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2000,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2001,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2002,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2003,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2004,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2005,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2006,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2007,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2008,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2009,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2010,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2011,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2012,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2013,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2014,Mt,0
+Central America and Caribbean,FoodProcessing_enuse,9,2015,Mt,0
 Central America and Caribbean,FoodProcessing,9,1990,Mt,0
 Central America and Caribbean,FoodProcessing,9,1991,Mt,0
 Central America and Caribbean,FoodProcessing,9,1992,Mt,0
@@ -240,6 +474,32 @@ Central America and Caribbean,FoodProcessing,9,2012,Mt,0
 Central America and Caribbean,FoodProcessing,9,2013,Mt,0
 Central America and Caribbean,FoodProcessing,9,2014,Mt,0
 Central America and Caribbean,FoodProcessing,9,2015,Mt,0
+Central Asia,FoodProcessing_enuse,10,1990,Mt,0
+Central Asia,FoodProcessing_enuse,10,1991,Mt,0
+Central Asia,FoodProcessing_enuse,10,1992,Mt,0.378658552
+Central Asia,FoodProcessing_enuse,10,1993,Mt,0.278331886
+Central Asia,FoodProcessing_enuse,10,1994,Mt,0.217884139
+Central Asia,FoodProcessing_enuse,10,1995,Mt,0.217867412
+Central Asia,FoodProcessing_enuse,10,1996,Mt,0.164324324
+Central Asia,FoodProcessing_enuse,10,1997,Mt,0.23226999
+Central Asia,FoodProcessing_enuse,10,1998,Mt,0.230414046
+Central Asia,FoodProcessing_enuse,10,1999,Mt,0.263843275
+Central Asia,FoodProcessing_enuse,10,2000,Mt,0.330234768
+Central Asia,FoodProcessing_enuse,10,2001,Mt,0.320232088
+Central Asia,FoodProcessing_enuse,10,2002,Mt,0.382681458
+Central Asia,FoodProcessing_enuse,10,2003,Mt,0.415949453
+Central Asia,FoodProcessing_enuse,10,2004,Mt,0.431760433
+Central Asia,FoodProcessing_enuse,10,2005,Mt,0.422593545
+Central Asia,FoodProcessing_enuse,10,2006,Mt,0.398799327
+Central Asia,FoodProcessing_enuse,10,2007,Mt,0.427591945
+Central Asia,FoodProcessing_enuse,10,2008,Mt,0.48323531
+Central Asia,FoodProcessing_enuse,10,2009,Mt,0.421496568
+Central Asia,FoodProcessing_enuse,10,2010,Mt,0.455328723
+Central Asia,FoodProcessing_enuse,10,2011,Mt,0.391775599
+Central Asia,FoodProcessing_enuse,10,2012,Mt,0.372682454
+Central Asia,FoodProcessing_enuse,10,2013,Mt,0.290015709
+Central Asia,FoodProcessing_enuse,10,2014,Mt,0.203768423
+Central Asia,FoodProcessing_enuse,10,2015,Mt,0.216697169
 Central Asia,FoodProcessing,10,1990,Mt,0
 Central Asia,FoodProcessing,10,1991,Mt,0
 Central Asia,FoodProcessing,10,1992,Mt,0.465878378
@@ -266,6 +526,32 @@ Central Asia,FoodProcessing,10,2012,Mt,0.479931215
 Central Asia,FoodProcessing,10,2013,Mt,0.403905871
 Central Asia,FoodProcessing,10,2014,Mt,0.280944578
 Central Asia,FoodProcessing,10,2015,Mt,0.333087724
+China,FoodProcessing_enuse,11,1990,Mt,0
+China,FoodProcessing_enuse,11,1991,Mt,0
+China,FoodProcessing_enuse,11,1992,Mt,0
+China,FoodProcessing_enuse,11,1993,Mt,0
+China,FoodProcessing_enuse,11,1994,Mt,0
+China,FoodProcessing_enuse,11,1995,Mt,0
+China,FoodProcessing_enuse,11,1996,Mt,0
+China,FoodProcessing_enuse,11,1997,Mt,0
+China,FoodProcessing_enuse,11,1998,Mt,0
+China,FoodProcessing_enuse,11,1999,Mt,0
+China,FoodProcessing_enuse,11,2000,Mt,0
+China,FoodProcessing_enuse,11,2001,Mt,0
+China,FoodProcessing_enuse,11,2002,Mt,0
+China,FoodProcessing_enuse,11,2003,Mt,5.54901
+China,FoodProcessing_enuse,11,2004,Mt,6.36198
+China,FoodProcessing_enuse,11,2005,Mt,7.51899
+China,FoodProcessing_enuse,11,2006,Mt,12.918
+China,FoodProcessing_enuse,11,2007,Mt,20.04702
+China,FoodProcessing_enuse,11,2008,Mt,22.74099
+China,FoodProcessing_enuse,11,2009,Mt,23.85498
+China,FoodProcessing_enuse,11,2010,Mt,31.071
+China,FoodProcessing_enuse,11,2011,Mt,38.916
+China,FoodProcessing_enuse,11,2012,Mt,41.409
+China,FoodProcessing_enuse,11,2013,Mt,46.326
+China,FoodProcessing_enuse,11,2014,Mt,53.796
+China,FoodProcessing_enuse,11,2015,Mt,56.768
 China,FoodProcessing,11,1990,Mt,0
 China,FoodProcessing,11,1991,Mt,0
 China,FoodProcessing,11,1992,Mt,0
@@ -292,6 +578,32 @@ China,FoodProcessing,11,2012,Mt,23.534
 China,FoodProcessing,11,2013,Mt,26.534
 China,FoodProcessing,11,2014,Mt,28.317
 China,FoodProcessing,11,2015,Mt,31.518
+EU-12,FoodProcessing_enuse,12,1990,Mt,0
+EU-12,FoodProcessing_enuse,12,1991,Mt,0
+EU-12,FoodProcessing_enuse,12,1992,Mt,0
+EU-12,FoodProcessing_enuse,12,1993,Mt,0
+EU-12,FoodProcessing_enuse,12,1994,Mt,0
+EU-12,FoodProcessing_enuse,12,1995,Mt,0
+EU-12,FoodProcessing_enuse,12,1996,Mt,0.275918154
+EU-12,FoodProcessing_enuse,12,1997,Mt,0.28753602
+EU-12,FoodProcessing_enuse,12,1998,Mt,0.448040003
+EU-12,FoodProcessing_enuse,12,1999,Mt,0.43716671
+EU-12,FoodProcessing_enuse,12,2000,Mt,0.483289655
+EU-12,FoodProcessing_enuse,12,2001,Mt,0.499125282
+EU-12,FoodProcessing_enuse,12,2002,Mt,0.537366209
+EU-12,FoodProcessing_enuse,12,2003,Mt,0.548293995
+EU-12,FoodProcessing_enuse,12,2004,Mt,0.609421485
+EU-12,FoodProcessing_enuse,12,2005,Mt,0.646000216
+EU-12,FoodProcessing_enuse,12,2006,Mt,0.644592797
+EU-12,FoodProcessing_enuse,12,2007,Mt,0.607752946
+EU-12,FoodProcessing_enuse,12,2008,Mt,0.523759507
+EU-12,FoodProcessing_enuse,12,2009,Mt,0.366574863
+EU-12,FoodProcessing_enuse,12,2010,Mt,0.403893795
+EU-12,FoodProcessing_enuse,12,2011,Mt,0.481414315
+EU-12,FoodProcessing_enuse,12,2012,Mt,0.439265724
+EU-12,FoodProcessing_enuse,12,2013,Mt,0.483384142
+EU-12,FoodProcessing_enuse,12,2014,Mt,0.544936551
+EU-12,FoodProcessing_enuse,12,2015,Mt,0.537758148
 EU-12,FoodProcessing,12,1990,Mt,0
 EU-12,FoodProcessing,12,1991,Mt,0
 EU-12,FoodProcessing,12,1992,Mt,0
@@ -318,6 +630,32 @@ EU-12,FoodProcessing,12,2012,Mt,0.468066484
 EU-12,FoodProcessing,12,2013,Mt,0.470889941
 EU-12,FoodProcessing,12,2014,Mt,0.51510326
 EU-12,FoodProcessing,12,2015,Mt,0.510051016
+EU-15,FoodProcessing_enuse,13,1990,Mt,2.979797693
+EU-15,FoodProcessing_enuse,13,1991,Mt,3.220374936
+EU-15,FoodProcessing_enuse,13,1992,Mt,3.2922595
+EU-15,FoodProcessing_enuse,13,1993,Mt,3.339339419
+EU-15,FoodProcessing_enuse,13,1994,Mt,3.344705393
+EU-15,FoodProcessing_enuse,13,1995,Mt,4.475773915
+EU-15,FoodProcessing_enuse,13,1996,Mt,3.076167395
+EU-15,FoodProcessing_enuse,13,1997,Mt,3.034139084
+EU-15,FoodProcessing_enuse,13,1998,Mt,2.945189434
+EU-15,FoodProcessing_enuse,13,1999,Mt,3.02224316
+EU-15,FoodProcessing_enuse,13,2000,Mt,2.997872581
+EU-15,FoodProcessing_enuse,13,2001,Mt,3.067056982
+EU-15,FoodProcessing_enuse,13,2002,Mt,3.13327813
+EU-15,FoodProcessing_enuse,13,2003,Mt,3.038661669
+EU-15,FoodProcessing_enuse,13,2004,Mt,3.085975525
+EU-15,FoodProcessing_enuse,13,2005,Mt,3.007556162
+EU-15,FoodProcessing_enuse,13,2006,Mt,2.970762439
+EU-15,FoodProcessing_enuse,13,2007,Mt,3.002943596
+EU-15,FoodProcessing_enuse,13,2008,Mt,2.745261387
+EU-15,FoodProcessing_enuse,13,2009,Mt,1.740083053
+EU-15,FoodProcessing_enuse,13,2010,Mt,2.033402121
+EU-15,FoodProcessing_enuse,13,2011,Mt,2.012288112
+EU-15,FoodProcessing_enuse,13,2012,Mt,1.827877528
+EU-15,FoodProcessing_enuse,13,2013,Mt,1.818678082
+EU-15,FoodProcessing_enuse,13,2014,Mt,1.797241539
+EU-15,FoodProcessing_enuse,13,2015,Mt,1.932296218
 EU-15,FoodProcessing,13,1990,Mt,2.55502251
 EU-15,FoodProcessing,13,1991,Mt,2.49007034
 EU-15,FoodProcessing,13,1992,Mt,2.340833179
@@ -344,6 +682,32 @@ EU-15,FoodProcessing,13,2012,Mt,1.604846198
 EU-15,FoodProcessing,13,2013,Mt,1.579711733
 EU-15,FoodProcessing,13,2014,Mt,1.539881004
 EU-15,FoodProcessing,13,2015,Mt,1.662023274
+Europe_Eastern,FoodProcessing_enuse,14,1990,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1991,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1992,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1993,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1994,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1995,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,1996,Mt,0.086224423
+Europe_Eastern,FoodProcessing_enuse,14,1997,Mt,0.100141855
+Europe_Eastern,FoodProcessing_enuse,14,1998,Mt,0.107730967
+Europe_Eastern,FoodProcessing_enuse,14,1999,Mt,0.112975667
+Europe_Eastern,FoodProcessing_enuse,14,2000,Mt,0.122364828
+Europe_Eastern,FoodProcessing_enuse,14,2001,Mt,0.112091695
+Europe_Eastern,FoodProcessing_enuse,14,2002,Mt,0.118942718
+Europe_Eastern,FoodProcessing_enuse,14,2003,Mt,0.120667018
+Europe_Eastern,FoodProcessing_enuse,14,2004,Mt,0.119142955
+Europe_Eastern,FoodProcessing_enuse,14,2005,Mt,0.118972576
+Europe_Eastern,FoodProcessing_enuse,14,2006,Mt,0.116729144
+Europe_Eastern,FoodProcessing_enuse,14,2007,Mt,0.112954084
+Europe_Eastern,FoodProcessing_enuse,14,2008,Mt,0.105876251
+Europe_Eastern,FoodProcessing_enuse,14,2009,Mt,0.047483791
+Europe_Eastern,FoodProcessing_enuse,14,2010,Mt,0.022741768
+Europe_Eastern,FoodProcessing_enuse,14,2011,Mt,0.006346328
+Europe_Eastern,FoodProcessing_enuse,14,2012,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,2013,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,2014,Mt,0
+Europe_Eastern,FoodProcessing_enuse,14,2015,Mt,0
 Europe_Eastern,FoodProcessing,14,1990,Mt,0
 Europe_Eastern,FoodProcessing,14,1991,Mt,0
 Europe_Eastern,FoodProcessing,14,1992,Mt,0
@@ -370,6 +734,32 @@ Europe_Eastern,FoodProcessing,14,2012,Mt,0
 Europe_Eastern,FoodProcessing,14,2013,Mt,0
 Europe_Eastern,FoodProcessing,14,2014,Mt,0
 Europe_Eastern,FoodProcessing,14,2015,Mt,0
+Europe_Non_EU,FoodProcessing_enuse,15,1990,Mt,0.074299451
+Europe_Non_EU,FoodProcessing_enuse,15,1991,Mt,0.064327461
+Europe_Non_EU,FoodProcessing_enuse,15,1992,Mt,0.052566717
+Europe_Non_EU,FoodProcessing_enuse,15,1993,Mt,0.051317442
+Europe_Non_EU,FoodProcessing_enuse,15,1994,Mt,0.052292193
+Europe_Non_EU,FoodProcessing_enuse,15,1995,Mt,0.055817271
+Europe_Non_EU,FoodProcessing_enuse,15,1996,Mt,0.130415466
+Europe_Non_EU,FoodProcessing_enuse,15,1997,Mt,0.184054057
+Europe_Non_EU,FoodProcessing_enuse,15,1998,Mt,0.177596548
+Europe_Non_EU,FoodProcessing_enuse,15,1999,Mt,0.225669895
+Europe_Non_EU,FoodProcessing_enuse,15,2000,Mt,0.269718081
+Europe_Non_EU,FoodProcessing_enuse,15,2001,Mt,0.290718161
+Europe_Non_EU,FoodProcessing_enuse,15,2002,Mt,0.321471132
+Europe_Non_EU,FoodProcessing_enuse,15,2003,Mt,0.32415549
+Europe_Non_EU,FoodProcessing_enuse,15,2004,Mt,0.321922786
+Europe_Non_EU,FoodProcessing_enuse,15,2005,Mt,0.323791349
+Europe_Non_EU,FoodProcessing_enuse,15,2006,Mt,0.304669444
+Europe_Non_EU,FoodProcessing_enuse,15,2007,Mt,0.305035097
+Europe_Non_EU,FoodProcessing_enuse,15,2008,Mt,0.277453579
+Europe_Non_EU,FoodProcessing_enuse,15,2009,Mt,0.182302821
+Europe_Non_EU,FoodProcessing_enuse,15,2010,Mt,0.229446705
+Europe_Non_EU,FoodProcessing_enuse,15,2011,Mt,0.249637186
+Europe_Non_EU,FoodProcessing_enuse,15,2012,Mt,0.200480253
+Europe_Non_EU,FoodProcessing_enuse,15,2013,Mt,0.145771491
+Europe_Non_EU,FoodProcessing_enuse,15,2014,Mt,0.183363548
+Europe_Non_EU,FoodProcessing_enuse,15,2015,Mt,0.158458982
 Europe_Non_EU,FoodProcessing,15,1990,Mt,0.088111111
 Europe_Non_EU,FoodProcessing,15,1991,Mt,0.079729919
 Europe_Non_EU,FoodProcessing,15,1992,Mt,0.064674881
@@ -396,6 +786,32 @@ Europe_Non_EU,FoodProcessing,15,2012,Mt,0.219929026
 Europe_Non_EU,FoodProcessing,15,2013,Mt,0.151826853
 Europe_Non_EU,FoodProcessing,15,2014,Mt,0.180225979
 Europe_Non_EU,FoodProcessing,15,2015,Mt,0.164433321
+European Free Trade Association,FoodProcessing_enuse,16,1990,Mt,1.173222307
+European Free Trade Association,FoodProcessing_enuse,16,1991,Mt,1.312595064
+European Free Trade Association,FoodProcessing_enuse,16,1992,Mt,1.3757405
+European Free Trade Association,FoodProcessing_enuse,16,1993,Mt,1.429640581
+European Free Trade Association,FoodProcessing_enuse,16,1994,Mt,1.535274607
+European Free Trade Association,FoodProcessing_enuse,16,1995,Mt,1.970236085
+European Free Trade Association,FoodProcessing_enuse,16,1996,Mt,1.384832605
+European Free Trade Association,FoodProcessing_enuse,16,1997,Mt,1.431840916
+European Free Trade Association,FoodProcessing_enuse,16,1998,Mt,1.505820566
+European Free Trade Association,FoodProcessing_enuse,16,1999,Mt,1.56073684
+European Free Trade Association,FoodProcessing_enuse,16,2000,Mt,1.531107419
+European Free Trade Association,FoodProcessing_enuse,16,2001,Mt,1.601963018
+European Free Trade Association,FoodProcessing_enuse,16,2002,Mt,1.72573187
+European Free Trade Association,FoodProcessing_enuse,16,2003,Mt,1.795358331
+European Free Trade Association,FoodProcessing_enuse,16,2004,Mt,1.896034475
+European Free Trade Association,FoodProcessing_enuse,16,2005,Mt,1.923423838
+European Free Trade Association,FoodProcessing_enuse,16,2006,Mt,2.027237561
+European Free Trade Association,FoodProcessing_enuse,16,2007,Mt,2.108066404
+European Free Trade Association,FoodProcessing_enuse,16,2008,Mt,2.343758613
+European Free Trade Association,FoodProcessing_enuse,16,2009,Mt,1.760916947
+European Free Trade Association,FoodProcessing_enuse,16,2010,Mt,1.971627879
+European Free Trade Association,FoodProcessing_enuse,16,2011,Mt,2.118711888
+European Free Trade Association,FoodProcessing_enuse,16,2012,Mt,2.278122472
+European Free Trade Association,FoodProcessing_enuse,16,2013,Mt,2.344321918
+European Free Trade Association,FoodProcessing_enuse,16,2014,Mt,2.399758461
+European Free Trade Association,FoodProcessing_enuse,16,2015,Mt,2.421703782
 European Free Trade Association,FoodProcessing,16,1990,Mt,1.00597749
 European Free Trade Association,FoodProcessing,16,1991,Mt,1.01492966
 European Free Trade Association,FoodProcessing,16,1992,Mt,0.978166821
@@ -422,6 +838,32 @@ European Free Trade Association,FoodProcessing,16,2012,Mt,2.000153802
 European Free Trade Association,FoodProcessing,16,2013,Mt,2.036288267
 European Free Trade Association,FoodProcessing,16,2014,Mt,2.056118996
 European Free Trade Association,FoodProcessing,16,2015,Mt,2.082976726
+India,FoodProcessing_enuse,17,1990,Mt,0.527404298
+India,FoodProcessing_enuse,17,1991,Mt,0.57894715
+India,FoodProcessing_enuse,17,1992,Mt,0.436571036
+India,FoodProcessing_enuse,17,1993,Mt,0.378357408
+India,FoodProcessing_enuse,17,1994,Mt,0.411365254
+India,FoodProcessing_enuse,17,1995,Mt,0.483449588
+India,FoodProcessing_enuse,17,1996,Mt,0.41950104
+India,FoodProcessing_enuse,17,1997,Mt,0.576589823
+India,FoodProcessing_enuse,17,1998,Mt,0.637165372
+India,FoodProcessing_enuse,17,1999,Mt,0.70742258
+India,FoodProcessing_enuse,17,2000,Mt,0.708903968
+India,FoodProcessing_enuse,17,2001,Mt,0.691435373
+India,FoodProcessing_enuse,17,2002,Mt,0.833698891
+India,FoodProcessing_enuse,17,2003,Mt,0.983265128
+India,FoodProcessing_enuse,17,2004,Mt,0.959220344
+India,FoodProcessing_enuse,17,2005,Mt,0.970934437
+India,FoodProcessing_enuse,17,2006,Mt,0.988056627
+India,FoodProcessing_enuse,17,2007,Mt,1.111739056
+India,FoodProcessing_enuse,17,2008,Mt,1.336283835
+India,FoodProcessing_enuse,17,2009,Mt,1.385908467
+India,FoodProcessing_enuse,17,2010,Mt,1.272544796
+India,FoodProcessing_enuse,17,2011,Mt,1.193948673
+India,FoodProcessing_enuse,17,2012,Mt,1.096124865
+India,FoodProcessing_enuse,17,2013,Mt,0.951631508
+India,FoodProcessing_enuse,17,2014,Mt,1.028924408
+India,FoodProcessing_enuse,17,2015,Mt,1.229691164
 India,FoodProcessing,17,1990,Mt,0.625444444
 India,FoodProcessing,17,1991,Mt,0.717569267
 India,FoodProcessing,17,1992,Mt,0.537130366
@@ -448,6 +890,32 @@ India,FoodProcessing,17,2012,Mt,1.411562398
 India,FoodProcessing,17,2013,Mt,1.325340459
 India,FoodProcessing,17,2014,Mt,1.418623795
 India,FoodProcessing,17,2015,Mt,1.890172506
+Indonesia,FoodProcessing_enuse,18,1990,Mt,0.226552424
+Indonesia,FoodProcessing_enuse,18,1991,Mt,0.214807772
+Indonesia,FoodProcessing_enuse,18,1992,Mt,0.154136305
+Indonesia,FoodProcessing_enuse,18,1993,Mt,0.156561686
+Indonesia,FoodProcessing_enuse,18,1994,Mt,0.193481115
+Indonesia,FoodProcessing_enuse,18,1995,Mt,0.198061284
+Indonesia,FoodProcessing_enuse,18,1996,Mt,0.177754678
+Indonesia,FoodProcessing_enuse,18,1997,Mt,0.233437175
+Indonesia,FoodProcessing_enuse,18,1998,Mt,0.156352388
+Indonesia,FoodProcessing_enuse,18,1999,Mt,0.122128328
+Indonesia,FoodProcessing_enuse,18,2000,Mt,0.176125209
+Indonesia,FoodProcessing_enuse,18,2001,Mt,0.199452512
+Indonesia,FoodProcessing_enuse,18,2002,Mt,0.198795563
+Indonesia,FoodProcessing_enuse,18,2003,Mt,0.246123937
+Indonesia,FoodProcessing_enuse,18,2004,Mt,0.274857802
+Indonesia,FoodProcessing_enuse,18,2005,Mt,0.259740423
+Indonesia,FoodProcessing_enuse,18,2006,Mt,0.223542223
+Indonesia,FoodProcessing_enuse,18,2007,Mt,0.220164363
+Indonesia,FoodProcessing_enuse,18,2008,Mt,0.231609823
+Indonesia,FoodProcessing_enuse,18,2009,Mt,0.223757437
+Indonesia,FoodProcessing_enuse,18,2010,Mt,0.200344638
+Indonesia,FoodProcessing_enuse,18,2011,Mt,0.174759134
+Indonesia,FoodProcessing_enuse,18,2012,Mt,0.159905274
+Indonesia,FoodProcessing_enuse,18,2013,Mt,0.142493268
+Indonesia,FoodProcessing_enuse,18,2014,Mt,0.111966503
+Indonesia,FoodProcessing_enuse,18,2015,Mt,0.087723191
 Indonesia,FoodProcessing,18,1990,Mt,0.268666667
 Indonesia,FoodProcessing,18,1991,Mt,0.266240978
 Indonesia,FoodProcessing,18,1992,Mt,0.189639905
@@ -474,6 +942,32 @@ Indonesia,FoodProcessing,18,2012,Mt,0.205922044
 Indonesia,FoodProcessing,18,2013,Mt,0.198450862
 Indonesia,FoodProcessing,18,2014,Mt,0.154373193
 Indonesia,FoodProcessing,18,2015,Mt,0.134840332
+Japan,FoodProcessing_enuse,19,1990,Mt,0.041412809
+Japan,FoodProcessing_enuse,19,1991,Mt,0.036758549
+Japan,FoodProcessing_enuse,19,1992,Mt,0.016928265
+Japan,FoodProcessing_enuse,19,1993,Mt,0.015656169
+Japan,FoodProcessing_enuse,19,1994,Mt,0.014816121
+Japan,FoodProcessing_enuse,19,1995,Mt,0.016205014
+Japan,FoodProcessing_enuse,19,1996,Mt,0.013430353
+Japan,FoodProcessing_enuse,19,1997,Mt,0.01984216
+Japan,FoodProcessing_enuse,19,1998,Mt,0.01880931
+Japan,FoodProcessing_enuse,19,1999,Mt,0.012673694
+Japan,FoodProcessing_enuse,19,2000,Mt,0.007705478
+Japan,FoodProcessing_enuse,19,2001,Mt,0.007756487
+Japan,FoodProcessing_enuse,19,2002,Mt,0.007454834
+Japan,FoodProcessing_enuse,19,2003,Mt,0.007383718
+Japan,FoodProcessing_enuse,19,2004,Mt,0.006676708
+Japan,FoodProcessing_enuse,19,2005,Mt,0.007215012
+Japan,FoodProcessing_enuse,19,2006,Mt,0.006259182
+Japan,FoodProcessing_enuse,19,2007,Mt,0.006368391
+Japan,FoodProcessing_enuse,19,2008,Mt,0.056234484
+Japan,FoodProcessing_enuse,19,2009,Mt,0.033823799
+Japan,FoodProcessing_enuse,19,2010,Mt,0.042761306
+Japan,FoodProcessing_enuse,19,2011,Mt,0.030797716
+Japan,FoodProcessing_enuse,19,2012,Mt,0.016764263
+Japan,FoodProcessing_enuse,19,2013,Mt,0.016205117
+Japan,FoodProcessing_enuse,19,2014,Mt,0.000530647
+Japan,FoodProcessing_enuse,19,2015,Mt,0
 Japan,FoodProcessing,19,1990,Mt,0.049111111
 Japan,FoodProcessing,19,1991,Mt,0.045559953
 Japan,FoodProcessing,19,1992,Mt,0.020827504
@@ -500,6 +994,32 @@ Japan,FoodProcessing,19,2012,Mt,0.021588601
 Japan,FoodProcessing,19,2013,Mt,0.022568922
 Japan,FoodProcessing,19,2014,Mt,0.000731627
 Japan,FoodProcessing,19,2015,Mt,0
+Mexico,FoodProcessing_enuse,20,1990,Mt,0.273140817
+Mexico,FoodProcessing_enuse,20,1991,Mt,0.193856239
+Mexico,FoodProcessing_enuse,20,1992,Mt,0.093015885
+Mexico,FoodProcessing_enuse,20,1993,Mt,0.099847835
+Mexico,FoodProcessing_enuse,20,1994,Mt,0
+Mexico,FoodProcessing_enuse,20,1995,Mt,0.040107591
+Mexico,FoodProcessing_enuse,20,1996,Mt,0.261643144
+Mexico,FoodProcessing_enuse,20,1997,Mt,0.297093803
+Mexico,FoodProcessing_enuse,20,1998,Mt,0.30925127
+Mexico,FoodProcessing_enuse,20,1999,Mt,0.320352745
+Mexico,FoodProcessing_enuse,20,2000,Mt,0.317464813
+Mexico,FoodProcessing_enuse,20,2001,Mt,0.277090805
+Mexico,FoodProcessing_enuse,20,2002,Mt,0.192500399
+Mexico,FoodProcessing_enuse,20,2003,Mt,0
+Mexico,FoodProcessing_enuse,20,2004,Mt,0
+Mexico,FoodProcessing_enuse,20,2005,Mt,0
+Mexico,FoodProcessing_enuse,20,2006,Mt,0
+Mexico,FoodProcessing_enuse,20,2007,Mt,0
+Mexico,FoodProcessing_enuse,20,2008,Mt,0
+Mexico,FoodProcessing_enuse,20,2009,Mt,0
+Mexico,FoodProcessing_enuse,20,2010,Mt,0
+Mexico,FoodProcessing_enuse,20,2011,Mt,0
+Mexico,FoodProcessing_enuse,20,2012,Mt,0
+Mexico,FoodProcessing_enuse,20,2013,Mt,0
+Mexico,FoodProcessing_enuse,20,2014,Mt,0
+Mexico,FoodProcessing_enuse,20,2015,Mt,0
 Mexico,FoodProcessing,20,1990,Mt,0.068114158
 Mexico,FoodProcessing,20,1991,Mt,0.051256798
 Mexico,FoodProcessing,20,1992,Mt,0.024571357
@@ -526,6 +1046,32 @@ Mexico,FoodProcessing,20,2012,Mt,0
 Mexico,FoodProcessing,20,2013,Mt,0
 Mexico,FoodProcessing,20,2014,Mt,0
 Mexico,FoodProcessing,20,2015,Mt,0
+Middle East,FoodProcessing_enuse,21,1990,Mt,0.544456631
+Middle East,FoodProcessing_enuse,21,1991,Mt,0.627192746
+Middle East,FoodProcessing_enuse,21,1992,Mt,0.55595985
+Middle East,FoodProcessing_enuse,21,1993,Mt,0.674085038
+Middle East,FoodProcessing_enuse,21,1994,Mt,0.70594461
+Middle East,FoodProcessing_enuse,21,1995,Mt,0.728325357
+Middle East,FoodProcessing_enuse,21,1996,Mt,0.655717256
+Middle East,FoodProcessing_enuse,21,1997,Mt,0.989773624
+Middle East,FoodProcessing_enuse,21,1998,Mt,1.148543484
+Middle East,FoodProcessing_enuse,21,1999,Mt,1.244326362
+Middle East,FoodProcessing_enuse,21,2000,Mt,1.231775683
+Middle East,FoodProcessing_enuse,21,2001,Mt,1.287576769
+Middle East,FoodProcessing_enuse,21,2002,Mt,1.520786054
+Middle East,FoodProcessing_enuse,21,2003,Mt,1.567809478
+Middle East,FoodProcessing_enuse,21,2004,Mt,1.58905644
+Middle East,FoodProcessing_enuse,21,2005,Mt,1.745002124
+Middle East,FoodProcessing_enuse,21,2006,Mt,1.732899316
+Middle East,FoodProcessing_enuse,21,2007,Mt,1.793156857
+Middle East,FoodProcessing_enuse,21,2008,Mt,2.017769528
+Middle East,FoodProcessing_enuse,21,2009,Mt,2.097942792
+Middle East,FoodProcessing_enuse,21,2010,Mt,2.324948053
+Middle East,FoodProcessing_enuse,21,2011,Mt,2.766780878
+Middle East,FoodProcessing_enuse,21,2012,Mt,2.601684607
+Middle East,FoodProcessing_enuse,21,2013,Mt,2.3732114
+Middle East,FoodProcessing_enuse,21,2014,Mt,2.808714229
+Middle East,FoodProcessing_enuse,21,2015,Mt,2.845259937
 Middle East,FoodProcessing,21,1990,Mt,0.086666667
 Middle East,FoodProcessing,21,1991,Mt,0.113899884
 Middle East,FoodProcessing,21,1992,Mt,0.100848967
@@ -552,6 +1098,32 @@ Middle East,FoodProcessing,21,2012,Mt,3.941821487
 Middle East,FoodProcessing,21,2013,Mt,4.116580408
 Middle East,FoodProcessing,21,2014,Mt,5.09172741
 Middle East,FoodProcessing,21,2015,Mt,5.388930463
+Pakistan,FoodProcessing_enuse,22,1990,Mt,0
+Pakistan,FoodProcessing_enuse,22,1991,Mt,0
+Pakistan,FoodProcessing_enuse,22,1992,Mt,0
+Pakistan,FoodProcessing_enuse,22,1993,Mt,0
+Pakistan,FoodProcessing_enuse,22,1994,Mt,0
+Pakistan,FoodProcessing_enuse,22,1995,Mt,0
+Pakistan,FoodProcessing_enuse,22,1996,Mt,0
+Pakistan,FoodProcessing_enuse,22,1997,Mt,0
+Pakistan,FoodProcessing_enuse,22,1998,Mt,0
+Pakistan,FoodProcessing_enuse,22,1999,Mt,0
+Pakistan,FoodProcessing_enuse,22,2000,Mt,0
+Pakistan,FoodProcessing_enuse,22,2001,Mt,0
+Pakistan,FoodProcessing_enuse,22,2002,Mt,0
+Pakistan,FoodProcessing_enuse,22,2003,Mt,0
+Pakistan,FoodProcessing_enuse,22,2004,Mt,0
+Pakistan,FoodProcessing_enuse,22,2005,Mt,0
+Pakistan,FoodProcessing_enuse,22,2006,Mt,0
+Pakistan,FoodProcessing_enuse,22,2007,Mt,0
+Pakistan,FoodProcessing_enuse,22,2008,Mt,0
+Pakistan,FoodProcessing_enuse,22,2009,Mt,0
+Pakistan,FoodProcessing_enuse,22,2010,Mt,0
+Pakistan,FoodProcessing_enuse,22,2011,Mt,0
+Pakistan,FoodProcessing_enuse,22,2012,Mt,0
+Pakistan,FoodProcessing_enuse,22,2013,Mt,0
+Pakistan,FoodProcessing_enuse,22,2014,Mt,0
+Pakistan,FoodProcessing_enuse,22,2015,Mt,0
 Pakistan,FoodProcessing,22,1990,Mt,0
 Pakistan,FoodProcessing,22,1991,Mt,0
 Pakistan,FoodProcessing,22,1992,Mt,0
@@ -578,6 +1150,32 @@ Pakistan,FoodProcessing,22,2012,Mt,0
 Pakistan,FoodProcessing,22,2013,Mt,0
 Pakistan,FoodProcessing,22,2014,Mt,0
 Pakistan,FoodProcessing,22,2015,Mt,0
+Russia,FoodProcessing_enuse,23,1990,Mt,0
+Russia,FoodProcessing_enuse,23,1991,Mt,0
+Russia,FoodProcessing_enuse,23,1992,Mt,0
+Russia,FoodProcessing_enuse,23,1993,Mt,0
+Russia,FoodProcessing_enuse,23,1994,Mt,0
+Russia,FoodProcessing_enuse,23,1995,Mt,0
+Russia,FoodProcessing_enuse,23,1996,Mt,2.753433245
+Russia,FoodProcessing_enuse,23,1997,Mt,2.88130922
+Russia,FoodProcessing_enuse,23,1998,Mt,3.025528558
+Russia,FoodProcessing_enuse,23,1999,Mt,3.090621279
+Russia,FoodProcessing_enuse,23,2000,Mt,3.336755172
+Russia,FoodProcessing_enuse,23,2001,Mt,3.489647102
+Russia,FoodProcessing_enuse,23,2002,Mt,3.554475694
+Russia,FoodProcessing_enuse,23,2003,Mt,3.681402537
+Russia,FoodProcessing_enuse,23,2004,Mt,3.787269852
+Russia,FoodProcessing_enuse,23,2005,Mt,3.806078817
+Russia,FoodProcessing_enuse,23,2006,Mt,3.840698748
+Russia,FoodProcessing_enuse,23,2007,Mt,3.95339293
+Russia,FoodProcessing_enuse,23,2008,Mt,3.925853908
+Russia,FoodProcessing_enuse,23,2009,Mt,3.623013217
+Russia,FoodProcessing_enuse,23,2010,Mt,3.590470295
+Russia,FoodProcessing_enuse,23,2011,Mt,3.620126858
+Russia,FoodProcessing_enuse,23,2012,Mt,3.445624314
+Russia,FoodProcessing_enuse,23,2013,Mt,3.495313846
+Russia,FoodProcessing_enuse,23,2014,Mt,3.269619308
+Russia,FoodProcessing_enuse,23,2015,Mt,3.364802315
 Russia,FoodProcessing,23,1990,Mt,0
 Russia,FoodProcessing,23,1991,Mt,0
 Russia,FoodProcessing,23,1992,Mt,0
@@ -604,6 +1202,32 @@ Russia,FoodProcessing,23,2012,Mt,3.671539046
 Russia,FoodProcessing,23,2013,Mt,3.404969231
 Russia,FoodProcessing,23,2014,Mt,3.090619557
 Russia,FoodProcessing,23,2015,Mt,3.191436231
+South Africa,FoodProcessing_enuse,24,1990,Mt,0.193665781
+South Africa,FoodProcessing_enuse,24,1991,Mt,0.194131088
+South Africa,FoodProcessing_enuse,24,1992,Mt,0.154136305
+South Africa,FoodProcessing_enuse,24,1993,Mt,0.15221275
+South Africa,FoodProcessing_enuse,24,1994,Mt,0.149904287
+South Africa,FoodProcessing_enuse,24,1995,Mt,0.17555432
+South Africa,FoodProcessing_enuse,24,1996,Mt,0.487442827
+South Africa,FoodProcessing_enuse,24,1997,Mt,0.770342679
+South Africa,FoodProcessing_enuse,24,1998,Mt,0.795868924
+South Africa,FoodProcessing_enuse,24,1999,Mt,0.793834133
+South Africa,FoodProcessing_enuse,24,2000,Mt,0.740826662
+South Africa,FoodProcessing_enuse,24,2001,Mt,0.733542015
+South Africa,FoodProcessing_enuse,24,2002,Mt,0.878427892
+South Africa,FoodProcessing_enuse,24,2003,Mt,0.908197327
+South Africa,FoodProcessing_enuse,24,2004,Mt,0.963671483
+South Africa,FoodProcessing_enuse,24,2005,Mt,0.871985704
+South Africa,FoodProcessing_enuse,24,2006,Mt,0.80028116
+South Africa,FoodProcessing_enuse,24,2007,Mt,0.817883315
+South Africa,FoodProcessing_enuse,24,2008,Mt,0.77298587
+South Africa,FoodProcessing_enuse,24,2009,Mt,0.701627002
+South Africa,FoodProcessing_enuse,24,2010,Mt,0.639043964
+South Africa,FoodProcessing_enuse,24,2011,Mt,0.579426801
+South Africa,FoodProcessing_enuse,24,2012,Mt,0.428778256
+South Africa,FoodProcessing_enuse,24,2013,Mt,0.459331239
+South Africa,FoodProcessing_enuse,24,2014,Mt,0.395331967
+South Africa,FoodProcessing_enuse,24,2015,Mt,0.362902488
 South Africa,FoodProcessing,24,1990,Mt,0.15821157
 South Africa,FoodProcessing,24,1991,Mt,0.170955372
 South Africa,FoodProcessing,24,1992,Mt,0.174128874
@@ -630,6 +1254,32 @@ South Africa,FoodProcessing,24,2012,Mt,0.676978261
 South Africa,FoodProcessing,24,2013,Mt,0.8156977
 South Africa,FoodProcessing,24,2014,Mt,0.746282272
 South Africa,FoodProcessing,24,2015,Mt,0.707156212
+South America_Northern,FoodProcessing_enuse,25,1990,Mt,2.49843512
+South America_Northern,FoodProcessing_enuse,25,1991,Mt,2.394694713
+South America_Northern,FoodProcessing_enuse,25,1992,Mt,2.206336793
+South America_Northern,FoodProcessing_enuse,25,1993,Mt,2.304180814
+South America_Northern,FoodProcessing_enuse,25,1994,Mt,2.44862069
+South America_Northern,FoodProcessing_enuse,25,1995,Mt,2.639079461
+South America_Northern,FoodProcessing_enuse,25,1996,Mt,2.860917653
+South America_Northern,FoodProcessing_enuse,25,1997,Mt,3.071492856
+South America_Northern,FoodProcessing_enuse,25,1998,Mt,3.062585157
+South America_Northern,FoodProcessing_enuse,25,1999,Mt,2.928939379
+South America_Northern,FoodProcessing_enuse,25,2000,Mt,2.961270139
+South America_Northern,FoodProcessing_enuse,25,2001,Mt,3.04267019
+South America_Northern,FoodProcessing_enuse,25,2002,Mt,2.986224137
+South America_Northern,FoodProcessing_enuse,25,2003,Mt,3.269501327
+South America_Northern,FoodProcessing_enuse,25,2004,Mt,3.400842431
+South America_Northern,FoodProcessing_enuse,25,2005,Mt,3.341777515
+South America_Northern,FoodProcessing_enuse,25,2006,Mt,3.596008842
+South America_Northern,FoodProcessing_enuse,25,2007,Mt,3.587117508
+South America_Northern,FoodProcessing_enuse,25,2008,Mt,3.559190447
+South America_Northern,FoodProcessing_enuse,25,2009,Mt,2.941562151
+South America_Northern,FoodProcessing_enuse,25,2010,Mt,1.992575022
+South America_Northern,FoodProcessing_enuse,25,2011,Mt,2.51911449
+South America_Northern,FoodProcessing_enuse,25,2012,Mt,1.363819688
+South America_Northern,FoodProcessing_enuse,25,2013,Mt,1.166996867
+South America_Northern,FoodProcessing_enuse,25,2014,Mt,1.179085603
+South America_Northern,FoodProcessing_enuse,25,2015,Mt,1.141555136
 South America_Northern,FoodProcessing,25,1990,Mt,0.623044208
 South America_Northern,FoodProcessing,25,1991,Mt,0.633172205
 South America_Northern,FoodProcessing,25,1992,Mt,0.582832577
@@ -656,6 +1306,32 @@ South America_Northern,FoodProcessing,25,2012,Mt,0.203
 South America_Northern,FoodProcessing,25,2013,Mt,0.170196345
 South America_Northern,FoodProcessing,25,2014,Mt,0.138089494
 South America_Northern,FoodProcessing,25,2015,Mt,0.119089879
+South America_Southern,FoodProcessing_enuse,26,1990,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1991,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1992,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1993,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1994,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1995,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1996,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1997,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1998,Mt,0
+South America_Southern,FoodProcessing_enuse,26,1999,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2000,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2001,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2002,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2003,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2004,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2005,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2006,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2007,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2008,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2009,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2010,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2011,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2012,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2013,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2014,Mt,0
+South America_Southern,FoodProcessing_enuse,26,2015,Mt,0
 South America_Southern,FoodProcessing,26,1990,Mt,0
 South America_Southern,FoodProcessing,26,1991,Mt,0
 South America_Southern,FoodProcessing,26,1992,Mt,0
@@ -682,6 +1358,32 @@ South America_Southern,FoodProcessing,26,2012,Mt,0
 South America_Southern,FoodProcessing,26,2013,Mt,0
 South America_Southern,FoodProcessing,26,2014,Mt,0
 South America_Southern,FoodProcessing,26,2015,Mt,0
+South Asia,FoodProcessing_enuse,27,1990,Mt,0
+South Asia,FoodProcessing_enuse,27,1991,Mt,0
+South Asia,FoodProcessing_enuse,27,1992,Mt,0
+South Asia,FoodProcessing_enuse,27,1993,Mt,0
+South Asia,FoodProcessing_enuse,27,1994,Mt,0
+South Asia,FoodProcessing_enuse,27,1995,Mt,0
+South Asia,FoodProcessing_enuse,27,1996,Mt,0
+South Asia,FoodProcessing_enuse,27,1997,Mt,0
+South Asia,FoodProcessing_enuse,27,1998,Mt,0
+South Asia,FoodProcessing_enuse,27,1999,Mt,0
+South Asia,FoodProcessing_enuse,27,2000,Mt,0
+South Asia,FoodProcessing_enuse,27,2001,Mt,0
+South Asia,FoodProcessing_enuse,27,2002,Mt,0
+South Asia,FoodProcessing_enuse,27,2003,Mt,0
+South Asia,FoodProcessing_enuse,27,2004,Mt,0
+South Asia,FoodProcessing_enuse,27,2005,Mt,0
+South Asia,FoodProcessing_enuse,27,2006,Mt,0
+South Asia,FoodProcessing_enuse,27,2007,Mt,0
+South Asia,FoodProcessing_enuse,27,2008,Mt,0
+South Asia,FoodProcessing_enuse,27,2009,Mt,0
+South Asia,FoodProcessing_enuse,27,2010,Mt,0
+South Asia,FoodProcessing_enuse,27,2011,Mt,0
+South Asia,FoodProcessing_enuse,27,2012,Mt,0
+South Asia,FoodProcessing_enuse,27,2013,Mt,0
+South Asia,FoodProcessing_enuse,27,2014,Mt,0
+South Asia,FoodProcessing_enuse,27,2015,Mt,0
 South Asia,FoodProcessing,27,1990,Mt,0
 South Asia,FoodProcessing,27,1991,Mt,0
 South Asia,FoodProcessing,27,1992,Mt,0
@@ -708,6 +1410,32 @@ South Asia,FoodProcessing,27,2012,Mt,0
 South Asia,FoodProcessing,27,2013,Mt,0
 South Asia,FoodProcessing,27,2014,Mt,0
 South Asia,FoodProcessing,27,2015,Mt,0
+South Korea,FoodProcessing_enuse,28,1990,Mt,0
+South Korea,FoodProcessing_enuse,28,1991,Mt,0
+South Korea,FoodProcessing_enuse,28,1992,Mt,0
+South Korea,FoodProcessing_enuse,28,1993,Mt,0
+South Korea,FoodProcessing_enuse,28,1994,Mt,0
+South Korea,FoodProcessing_enuse,28,1995,Mt,0
+South Korea,FoodProcessing_enuse,28,1996,Mt,0
+South Korea,FoodProcessing_enuse,28,1997,Mt,0
+South Korea,FoodProcessing_enuse,28,1998,Mt,0
+South Korea,FoodProcessing_enuse,28,1999,Mt,0
+South Korea,FoodProcessing_enuse,28,2000,Mt,0
+South Korea,FoodProcessing_enuse,28,2001,Mt,0
+South Korea,FoodProcessing_enuse,28,2002,Mt,0
+South Korea,FoodProcessing_enuse,28,2003,Mt,0
+South Korea,FoodProcessing_enuse,28,2004,Mt,0
+South Korea,FoodProcessing_enuse,28,2005,Mt,0
+South Korea,FoodProcessing_enuse,28,2006,Mt,0
+South Korea,FoodProcessing_enuse,28,2007,Mt,0
+South Korea,FoodProcessing_enuse,28,2008,Mt,0
+South Korea,FoodProcessing_enuse,28,2009,Mt,0
+South Korea,FoodProcessing_enuse,28,2010,Mt,0
+South Korea,FoodProcessing_enuse,28,2011,Mt,0
+South Korea,FoodProcessing_enuse,28,2012,Mt,0
+South Korea,FoodProcessing_enuse,28,2013,Mt,0
+South Korea,FoodProcessing_enuse,28,2014,Mt,0
+South Korea,FoodProcessing_enuse,28,2015,Mt,0
 South Korea,FoodProcessing,28,1990,Mt,0
 South Korea,FoodProcessing,28,1991,Mt,0
 South Korea,FoodProcessing,28,1992,Mt,0
@@ -734,6 +1462,32 @@ South Korea,FoodProcessing,28,2012,Mt,0
 South Korea,FoodProcessing,28,2013,Mt,0
 South Korea,FoodProcessing,28,2014,Mt,0
 South Korea,FoodProcessing,28,2015,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1990,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1991,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1992,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1993,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1994,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1995,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1996,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1997,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1998,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,1999,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2000,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2001,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2002,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2003,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2004,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2005,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2006,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2007,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2008,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2009,Mt,0.013009153
+Southeast Asia,FoodProcessing_enuse,29,2010,Mt,0
+Southeast Asia,FoodProcessing_enuse,29,2011,Mt,0.057298077
+Southeast Asia,FoodProcessing_enuse,29,2012,Mt,0.07737352
+Southeast Asia,FoodProcessing_enuse,29,2013,Mt,0.162609964
+Southeast Asia,FoodProcessing_enuse,29,2014,Mt,0.212258774
+Southeast Asia,FoodProcessing_enuse,29,2015,Mt,0.208864741
 Southeast Asia,FoodProcessing,29,1990,Mt,0
 Southeast Asia,FoodProcessing,29,1991,Mt,0
 Southeast Asia,FoodProcessing,29,1992,Mt,0
@@ -760,6 +1514,32 @@ Southeast Asia,FoodProcessing,29,2012,Mt,0.099639699
 Southeast Asia,FoodProcessing,29,2013,Mt,0.226467454
 Southeast Asia,FoodProcessing,29,2014,Mt,0.292650602
 Southeast Asia,FoodProcessing,29,2015,Mt,0.321048409
+Taiwan,FoodProcessing_enuse,30,1990,Mt,0
+Taiwan,FoodProcessing_enuse,30,1991,Mt,0
+Taiwan,FoodProcessing_enuse,30,1992,Mt,0
+Taiwan,FoodProcessing_enuse,30,1993,Mt,0
+Taiwan,FoodProcessing_enuse,30,1994,Mt,0
+Taiwan,FoodProcessing_enuse,30,1995,Mt,0
+Taiwan,FoodProcessing_enuse,30,1996,Mt,0
+Taiwan,FoodProcessing_enuse,30,1997,Mt,0
+Taiwan,FoodProcessing_enuse,30,1998,Mt,0
+Taiwan,FoodProcessing_enuse,30,1999,Mt,0
+Taiwan,FoodProcessing_enuse,30,2000,Mt,0
+Taiwan,FoodProcessing_enuse,30,2001,Mt,0
+Taiwan,FoodProcessing_enuse,30,2002,Mt,0
+Taiwan,FoodProcessing_enuse,30,2003,Mt,0
+Taiwan,FoodProcessing_enuse,30,2004,Mt,0
+Taiwan,FoodProcessing_enuse,30,2005,Mt,0
+Taiwan,FoodProcessing_enuse,30,2006,Mt,0
+Taiwan,FoodProcessing_enuse,30,2007,Mt,0
+Taiwan,FoodProcessing_enuse,30,2008,Mt,0
+Taiwan,FoodProcessing_enuse,30,2009,Mt,0
+Taiwan,FoodProcessing_enuse,30,2010,Mt,0
+Taiwan,FoodProcessing_enuse,30,2011,Mt,0
+Taiwan,FoodProcessing_enuse,30,2012,Mt,0
+Taiwan,FoodProcessing_enuse,30,2013,Mt,0
+Taiwan,FoodProcessing_enuse,30,2014,Mt,0
+Taiwan,FoodProcessing_enuse,30,2015,Mt,0
 Taiwan,FoodProcessing,30,1990,Mt,0
 Taiwan,FoodProcessing,30,1991,Mt,0
 Taiwan,FoodProcessing,30,1992,Mt,0
@@ -786,6 +1566,32 @@ Taiwan,FoodProcessing,30,2012,Mt,0
 Taiwan,FoodProcessing,30,2013,Mt,0
 Taiwan,FoodProcessing,30,2014,Mt,0
 Taiwan,FoodProcessing,30,2015,Mt,0
+Argentina,FoodProcessing_enuse,31,1990,Mt,0.666784936
+Argentina,FoodProcessing_enuse,31,1991,Mt,0.627181949
+Argentina,FoodProcessing_enuse,31,1992,Mt,0.613904841
+Argentina,FoodProcessing_enuse,31,1993,Mt,0.633649724
+Argentina,FoodProcessing_enuse,31,1994,Mt,0.700177485
+Argentina,FoodProcessing_enuse,31,1995,Mt,0.746001185
+Argentina,FoodProcessing_enuse,31,1996,Mt,0.797797127
+Argentina,FoodProcessing_enuse,31,1997,Mt,0.84557467
+Argentina,FoodProcessing_enuse,31,1998,Mt,0.932741733
+Argentina,FoodProcessing_enuse,31,1999,Mt,1.047502625
+Argentina,FoodProcessing_enuse,31,2000,Mt,1.363537393
+Argentina,FoodProcessing_enuse,31,2001,Mt,1.305523987
+Argentina,FoodProcessing_enuse,31,2002,Mt,1.327759162
+Argentina,FoodProcessing_enuse,31,2003,Mt,1.479707755
+Argentina,FoodProcessing_enuse,31,2004,Mt,1.482418496
+Argentina,FoodProcessing_enuse,31,2005,Mt,1.477989405
+Argentina,FoodProcessing_enuse,31,2006,Mt,1.609361334
+Argentina,FoodProcessing_enuse,31,2007,Mt,1.593621057
+Argentina,FoodProcessing_enuse,31,2008,Mt,2.306449072
+Argentina,FoodProcessing_enuse,31,2009,Mt,2.16553506
+Argentina,FoodProcessing_enuse,31,2010,Mt,2.480309803
+Argentina,FoodProcessing_enuse,31,2011,Mt,2.757767442
+Argentina,FoodProcessing_enuse,31,2012,Mt,2.774667641
+Argentina,FoodProcessing_enuse,31,2013,Mt,3.002798956
+Argentina,FoodProcessing_enuse,31,2014,Mt,3.776491569
+Argentina,FoodProcessing_enuse,31,2015,Mt,4.153725831
 Argentina,FoodProcessing,31,1990,Mt,0.166278679
 Argentina,FoodProcessing,31,1991,Mt,0.165830816
 Argentina,FoodProcessing,31,1992,Mt,0.162170953
@@ -812,6 +1618,32 @@ Argentina,FoodProcessing,31,2012,Mt,0.413
 Argentina,FoodProcessing,31,2013,Mt,0.437932115
 Argentina,FoodProcessing,31,2014,Mt,0.442286641
 Argentina,FoodProcessing,31,2015,Mt,0.433327039
+Colombia,FoodProcessing_enuse,32,1990,Mt,0
+Colombia,FoodProcessing_enuse,32,1991,Mt,0
+Colombia,FoodProcessing_enuse,32,1992,Mt,0
+Colombia,FoodProcessing_enuse,32,1993,Mt,0
+Colombia,FoodProcessing_enuse,32,1994,Mt,0
+Colombia,FoodProcessing_enuse,32,1995,Mt,0
+Colombia,FoodProcessing_enuse,32,1996,Mt,0
+Colombia,FoodProcessing_enuse,32,1997,Mt,0
+Colombia,FoodProcessing_enuse,32,1998,Mt,0
+Colombia,FoodProcessing_enuse,32,1999,Mt,0
+Colombia,FoodProcessing_enuse,32,2000,Mt,0
+Colombia,FoodProcessing_enuse,32,2001,Mt,0
+Colombia,FoodProcessing_enuse,32,2002,Mt,0
+Colombia,FoodProcessing_enuse,32,2003,Mt,0
+Colombia,FoodProcessing_enuse,32,2004,Mt,0
+Colombia,FoodProcessing_enuse,32,2005,Mt,0
+Colombia,FoodProcessing_enuse,32,2006,Mt,0
+Colombia,FoodProcessing_enuse,32,2007,Mt,0
+Colombia,FoodProcessing_enuse,32,2008,Mt,0
+Colombia,FoodProcessing_enuse,32,2009,Mt,0
+Colombia,FoodProcessing_enuse,32,2010,Mt,0
+Colombia,FoodProcessing_enuse,32,2011,Mt,0
+Colombia,FoodProcessing_enuse,32,2012,Mt,0
+Colombia,FoodProcessing_enuse,32,2013,Mt,0
+Colombia,FoodProcessing_enuse,32,2014,Mt,0
+Colombia,FoodProcessing_enuse,32,2015,Mt,0
 Colombia,FoodProcessing,32,1990,Mt,0
 Colombia,FoodProcessing,32,1991,Mt,0
 Colombia,FoodProcessing,32,1992,Mt,0

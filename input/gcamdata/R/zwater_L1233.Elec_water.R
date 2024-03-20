@@ -20,7 +20,7 @@ module_water_L1233.Elec_water <- function(command, ...) {
     return(c(FILE = "common/iso_GCAM_regID",
              FILE = "energy/calibrated_techs",
              FILE = "energy/mappings/enduse_fuel_aggregation",
-             "L101.en_bal_EJ_ctry_Si_Fi_Yh_full",
+             FILE ="energy/FoodProcessing/L101.en_bal_EJ_ctry_Si_Fi_Yh_full",
              "L103.water_mapping_R_B_W_Ws_share",
              "L1231.in_EJ_R_elec_F_tech_Yh",
              "L1231.out_EJ_R_elec_F_tech_Yh",

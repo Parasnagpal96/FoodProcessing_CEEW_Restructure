@@ -25,7 +25,7 @@ module_energy_L1011.en_bal_adj <- function(command, ...) {
              FILE = "energy/EIA_TOT_intlship_kbbld",
              FILE = "energy/mappings/EIA_ctry",
              FILE = "energy/A22.globaltech_coef",
-             FILE="energy/FoodProcessing/L101.en_bal_EJ_R_Si_Fi_Yh_full"))
+             FILE = "energy/FoodProcessing/L101.en_bal_EJ_R_Si_Fi_Yh_full"))
   } else if(command == driver.DECLARE_OUTPUTS) {
     return(c("L1011.en_bal_EJ_R_Si_Fi_Yh",
              "L1011.in_EJ_ctry_intlship_TOT_Yh"))
@@ -141,7 +141,7 @@ module_energy_L1011.en_bal_adj <- function(command, ...) {
       filter(year %in% HISTORICAL_YEARS) -> L101.en_bal_EJ_R_Si_Fi_Yh_full
 
     # Replace the data in the IEA energy balances table
-    L101.en_bal_EJ_R_Si_Fi_Yh_full %>%
+   L101.en_bal_EJ_R_Si_Fi_Yh_full %>%
       left_join(L1011.in_EJ_R_intlship_Yh %>%
                   mutate(sector = "in_trn_international ship",
                          fuel = "refined liquids"),

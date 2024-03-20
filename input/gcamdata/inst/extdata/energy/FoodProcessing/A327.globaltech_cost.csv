@@ -4,17 +4,8 @@
 # Column types: ccccnnnn
 # ----------
 supplysector,subsector,technology,minicam.non.energy.input,1971,2010,2050,2100
-FoodProcessing,refined liquids,refined liquids,non-energy,3,3,3,3
-FoodProcessing,refined liquids,refined liquids cogen,non-energy,4,4,4,4
-FoodProcessing,refined liquids,refined liquids CCS,non-energy,3.5,3.5,3.5,3.5
-FoodProcessing,coal,coal,non-energy,3,3,3,3
-FoodProcessing,coal,coal cogen,non-energy,4,4,4,4
-FoodProcessing,coal,coal CCS,non-energy,3.5,3.5,3.5,3.5
-FoodProcessing,gas,gas,non-energy,3,3,3,3
-FoodProcessing,gas,gas cogen,non-energy,4,4,4,4
-FoodProcessing,gas,gas CCS,non-energy,3.5,3.5,3.5,3.5
-FoodProcessing,biomass,biomass,non-energy,3,3,3,3
-FoodProcessing,biomass,biomass cogen,non-energy,4,4,4,4
-FoodProcessing,biomass,biomass CCS,non-energy,3.5,3.5,3.5,3.5
-FoodProcessing,heat,heat,non-energy,3,3,3,3
-FoodProcessing,electricity,electricity,non-energy,3,3,3,3
+FoodProcessing_enuse,refined liquids,refined liquids,non-energy,3,3,3,3
+FoodProcessing_enuse,coal,coal,non-energy,3,3,3,3
+FoodProcessing_enuse,gas,gas,non-energy,3,3,3,3
+FoodProcessing_enuse,biomass,biomass,non-energy,3,3,3,3
+FoodProcessing_enuse,electricity,electricity,non-energy,3,3,3,3
