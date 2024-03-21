@@ -4,8 +4,8 @@
 # Column types: cccnnnnn
 # ----------
 supplysector,subsector,technology,1971,2015,2019,2050,2100
-FoodProcessing_enuse,biomass,biomass,1,1,1,1,1
-FoodProcessing_enuse,coal,coal,0,0,0,0,0
-FoodProcessing_enuse,electricity,electricity,0,0,0,1,1
-FoodProcessing_enuse,gas,gas,1,1,1,1,1
-FoodProcessing_enuse,refined liquids,refined liquids,0,0,0,0,0
+FoodProcessing,biomass,biomass,1,1,1,1,1
+FoodProcessing,coal,coal,0,0,0,0,0
+FoodProcessing,electricity,electricity,0,0,0,1,1
+FoodProcessing,gas,gas,1,1,1,1,1
+FoodProcessing,refined liquids,refined liquids,0,0,0,0,0

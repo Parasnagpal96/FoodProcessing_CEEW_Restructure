@@ -122,7 +122,7 @@ module_energy_L1327.FoodProcessing <- function(command, ...) {
       left_join_error_no_match(iso_GCAM_regID, by = "iso") %>%
      group_by(GCAM_region_ID, year, fuel) %>%
       summarise(value = sum(value)) %>%
-      mutate(sector = "FoodProcessing_enuse") %>%
+      mutate(sector = "FoodProcessing") %>%
       ungroup %>%
       select(GCAM_region_ID, year, sector, fuel, value)
 
@@ -202,7 +202,7 @@ module_energy_L1327.FoodProcessing <- function(command, ...) {
 
 
     L1327.in_EJ_R_FoodProcessing_Yh_recal %>%
-      mutate(sector = if_else(fuel == "electricity", "FoodProcessing_enuse", "FoodProcessing_enuse")) ->
+      mutate(sector = if_else(fuel == "electricity", "FoodProcessing", "FoodProcessing_enuse")) ->
       L1327.in_EJ_R_FoodProcessing_Yh
 
     #Calculate coefficients
